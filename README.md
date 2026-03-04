@@ -14,6 +14,9 @@ This project demonstrates Hibernate HQL operations:
 - MySQL
 - Maven
 
+# My Project
+This is my first project.
+
 ## How to Run
 1. Run ProductDataLoader (once)
 2. Run HQLDemo
